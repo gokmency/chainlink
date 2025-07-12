@@ -356,3 +356,5 @@ Contributions are welcome to Chainlink's source code.
 Please check out our [contributing guidelines](./docs/CONTRIBUTING.md) for more details.
 
 Thank you!
+This is a minor contribution for educational purposes.
+
